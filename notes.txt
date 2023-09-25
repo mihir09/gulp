@@ -1,0 +1,29 @@
+npm i gulp@4.0.2
+npm i gulp@4.0.2 -g
+
+npm i jshint@2.13.4
+npm i gulp-jshint@2.1.0
+
+minify + rename css/js files
+npm i gulp-rename@2.0.0
+npm i gulp-clean-css@4.3.0
+
+sass compile + minify + rename files
+npm i sass@1.49.10
+npm i gulp-sass@5.1.0
+
+sass compile + minify + rename + autoprefixer + sourcemaps files
+npm i gulp-autoprefixer@7.0.1
+npm i gulp-sourcemaps@3.0.0
+
+image minification
+npm i gulp-imagemin@7.1.0
+
+transpile(babelify) + minify + rename + autoprefixer + sourcemaps files
+npm i babel-core@6.26.3
+npm i babel-preset-env@1.7.0
+npm i babelify@8.0.0
+npm i browserify@17.0.0
+npm i vinyl-buffer@1.0.1
+npm i vinyl-source-stream@2.0.0
+npm i gulp-uglify@3.0.2

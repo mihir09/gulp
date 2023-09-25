@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAEA,KACI,iBAAA,KACA,MAAA,IAGJ,EACI,mBAAA,IAAA,IAAA,KAAA,WAAA,IAAA,IAAA","file":"style.min.css","sourcesContent":["@import './../base/variables.scss';\r\n\r\nbody {\r\n    background-color: $bg;\r\n    color: $red;\r\n}\r\n\r\na{\r\n    transition: all 300ms ease;\r\n}"]}
